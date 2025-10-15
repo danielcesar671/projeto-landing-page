@@ -78,7 +78,7 @@
 }
 
 #seta-esquerda{
-    display: none;
+    display: flex;
 }
 
 #bruna{
